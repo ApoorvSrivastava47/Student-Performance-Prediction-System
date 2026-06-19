@@ -1,4 +1,4 @@
-# NEXORA: Intelligent Learning Analytics and Student Success Prediction Framework
+# "NEXORA": Intelligent Learning Analytics and Student Success Prediction Framework
 
 
 ## 📌 Project Overview
