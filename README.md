@@ -1,4 +1,5 @@
-# 🎓 Student Performance Prediction System
+# NEXORA: Intelligent Learning Analytics and Student Success Prediction Framework
+
 
 ## 📌 Project Overview
 
